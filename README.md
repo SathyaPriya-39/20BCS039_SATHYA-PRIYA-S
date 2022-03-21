@@ -1,0 +1,2 @@
+# 20BCS039_SATHYA-PRIYA-S
+Mini Project
