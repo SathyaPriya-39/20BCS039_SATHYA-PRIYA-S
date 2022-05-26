@@ -1,5 +1,5 @@
-# 20BCS039_SATHYA-PRIYA-S
-Mini Project
+// 20BCS039_SATHYA-PRIYA-S
+//mini Project
   #include <Servo.h>
   #include <AFMotor.h>
   #define Echo A0
